@@ -1,9 +1,9 @@
 module.exports = {
-  name: 'London',
-  shortName: 'London',
-  description: 'A bold, minimal theme for Gatsby, focused on clean typography & beautiful imagery',
-  url: 'https://gatsby-london.netlify.com', // Domain of your site without prefix!
+  name: 'MDG Growth',
+  shortName: 'MDG Growth',
+  description: 'We make things.',
+  url: 'https://mdggrowth.com', // Domain of your site without prefix!
   prefix: '/',
-  author: 'Imed Adel',
-  twitter: 'Imed_Adel'
+  author: 'Matthew Gilbert',
+  twitter: 'ImMattGilbert'
 }

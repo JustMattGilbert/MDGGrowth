@@ -60,14 +60,7 @@ const Layout = props => {
               >
                 Twitter
               </a>
-              <Link
-                to={`/rss.xml`}
-                title="RSS"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                RSS
-              </Link>
+              
             </div>
           </div>
         </div>
@@ -79,14 +72,15 @@ const Layout = props => {
       </main>
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
-        Built with{" "}
+        Built by{" "}
         <a
-          href="https://gatsbyjs.org"
+          href="https://everywaydesign.com"
           target="_blank"
-          rel="noopener noreferrer"
+          
         >
-          Gatsby
+          everyway
         </a>
+        .
       </footer>
     </div>
   )
