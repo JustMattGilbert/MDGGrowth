@@ -13,28 +13,31 @@ const AboutPage = ({ data }, location) => {
 
   return (
     <Layout title={siteTitle}>
-      <SEO title="About MDG Growth" keywords={[`Mdg Growth`, `eCommerce`]} />
+      <SEO title="Contact" keywords={[`mdg Growth`, `contact`]} />
 
       <article className="post-content page-template no-image">
         <div className="post-content-body">
           <h2 id="clean-minimal-and-deeply-customisable-london-is-a-theme-made-for-people-who-appreciate-simple-lines-">
-            We make high quality products, content, and customer experiences.
+          Hello.<br /> We would love to hear from you.
           </h2>
-          <figure className="kg-card kg-image-card kg-width-full">
-            <Img
-              fluid={data.benchAccounting.childImageSharp.fluid}
-              className="kg-image"
-            />
-            <figcaption>Formed in 2020, with over 15 years of experience.</figcaption>
-          </figure>
-          <h3 id="dynamic-styles">MDG Growth</h3>
+          
           <p>
-           Mission Statement
+          <form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <label>Message <textarea name="message"></textarea></label>
+  </p>
+  <p>
+    <center><button type="submit">Send</button></center>
+  </p>
+</form>
           </p>
-          <p>
-            Vision Statement
-           
-          </p>
+          
           
         </div>
       </article>

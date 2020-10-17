@@ -1,6 +1,6 @@
 ---
-title: The fur series
-date: "2019-05-01"
+title: Bird Girls Art
+date: "2020-11-02"
 thumbnail: ./charles-deluvio-550068-unsplash.jpg
 description: I have one pug and one Czechoslovakian dog called Prazsky krysarik.
 ---

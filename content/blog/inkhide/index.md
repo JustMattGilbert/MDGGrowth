@@ -1,8 +1,8 @@
 ---
-title: All spikes
-date: "2019-05-04"
+title: inkhide
+date: "2020-11-01"
 thumbnail: ./charles-deluvio-695732-unsplash.jpg
-description: A cactus doesn't live in the desert because it likes the desert; it lives there because the desert hasn't killed it yet.
+description: Handmade heirloom quality journals, notesbooks, and leather goods.
 ---
 
 ![Cactus](./charles-deluvio-695757-unsplash.jpg)
