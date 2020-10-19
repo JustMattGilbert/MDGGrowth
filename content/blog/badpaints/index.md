@@ -1,7 +1,7 @@
 ---
 title: BadPaints
 date: "2020-01-01"
-thumbnail: ./bbbb.jpg
+thumbnail: ./BadPaintsShield.jpg
 description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
 ---
 
@@ -13,18 +13,18 @@ This is the final render.
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_II_desktop-1.jpg)
+![BadPaints Mascot](./beers.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_IX_desktop-1.jpg)
+![BadPaints Mascot](./standing.jpg)
 
 </div>
 
 <div class="kg-card kg-image-card kg-width-full">
 
-![Darkness](./BLACK_I_desktop-1.jpg)
+![BadPaints Mascot](./empty.jpg)
 
 </div>

@@ -1,7 +1,7 @@
 ---
 title: inkhide
 date: "2020-11-01"
-thumbnail: ./charles-deluvio-695732-unsplash.jpg
+thumbnail: ./inkhide.jpg
 description: Handmade heirloom quality journals, notesbooks, and leather goods.
 ---
 
