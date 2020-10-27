@@ -1,8 +1,6 @@
 ---
 title: WildVials
-date: "2021-01-01"
-thumbnail: ./WVCircle.jpg
+date: "2020-03-01"
+thumbnail: ./WildVialsSource.jpg
 description: Wildvials
 ---
-
-![Clean lines](./WildVialsSource.jpg)

@@ -1,6 +1,6 @@
 ---
 title: BadPaints
-date: "2020-01-01"
+date: "2021-01-01"
 thumbnail: ./BadPaintsShield.jpg
 description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
 ---
