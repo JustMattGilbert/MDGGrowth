@@ -2,14 +2,12 @@
 title: BadPaints
 date: "2021-01-01"
 thumbnail: ./BadPaintsShield.jpg
-description: Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.
+description: Miniature Painting Studio, Wargame Store, and hobby blog.
 ---
 
-### A wallpaper series using shapes and light by [Jean-Marc Denis](http://jmd.im/black)
+### Commission Painting Services for Warhammer 40k, Age of Sigmar, Kings of War, and many more.
 
-I used a poly reduction on the mesh as a proxy to be able to create my studio setup with a responsive viewport. I used a simple 2 point lighting setup. I created a roughness map using the height map to get the exact results I was looking. After that, I applied my material to the high poly mesh and used a subtle smoothing deformer for the creases.
-
-This is the final render.
+With over 20 years of miniature painting experience, we can handle any size project from 1 model to entire armies. Our goal for BadPaints.com in 2021 is to provide not only painting services, but information guides and courses as well. We want to give back to the hobby community from which we have learned so much.
 
 <div class="kg-card kg-image-card kg-width-full">
 

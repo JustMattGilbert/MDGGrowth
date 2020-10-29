@@ -45,22 +45,21 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://www.facebook.com"
-                title="Facebook"
+                href="https://everyway.io"
+                title="Blog"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Facebook
+                Blog
               </a>
               <a
-                href="https://twitter.com"
-                title="Twitter"
+                href="https://www.linkedin.com/in/everywaymatt/"
+                title="LinkedIn"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Twitter
+                LinkedIn
               </a>
-              
             </div>
           </div>
         </div>
@@ -73,28 +72,10 @@ const Layout = props => {
       <footer className="site-foot">
         &copy; {new Date().getFullYear()} <Link to={`/`}>{title}</Link> &mdash;
         Built by{" "}
-        <a
-          href="https://everywaydesign.com"
-          target="_blank"
-          
-        >
+        <a href="https://everywaydesign.com" target="_blank">
           everyway
         </a>
         . &nbsp;
-        <a
-          href="#"
-              
-        >
-          Privacy
-        </a>
-        . &nbsp;
-        <a
-          href="#"
-              
-        >
-          Terms
-        </a>
-        .
       </footer>
     </div>
   )
