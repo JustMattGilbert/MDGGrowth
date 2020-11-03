@@ -21,23 +21,7 @@ const AboutPage = ({ data }, location) => {
           Hello.<br /> We would love to hear from you.
           </h2>
           
-          <p>
-          <form name="contact" netlify>
-  <p>
-    <label>Name <input type="text" name="name" /></label>
-  </p>
-  <p>
-    <label>Email <input type="email" name="email" /></label>
-  </p>
-  <p>
-    <label>Message <textarea name="message"></textarea></label>
-  </p>
-  <p>
-    <center><button type="submit">Send</button></center>
-  </p>
-</form>
-          </p>
-          
+          <p>Send an email to <a href="mailto:info@mdggrowth.com">info@mdggrowth.com</a>and we will be in touch as soon as possible.</p>         
           
         </div>
       </article>
