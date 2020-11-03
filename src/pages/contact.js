@@ -21,7 +21,7 @@ const AboutPage = ({ data }, location) => {
           Hello.<br /> We would love to hear from you.
           </h2>
           
-          <p>Send an email to <a href="mailto:info@mdggrowth.com">info@mdggrowth.com</a>and we will be in touch as soon as possible.</p>         
+          <center><p>Send an email to <a href="mailto:info@mdggrowth.com">info@mdggrowth.com</a> and we will be in touch</p></center> 
           
         </div>
       </article>
