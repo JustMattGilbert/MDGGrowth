@@ -2,7 +2,7 @@
 title: BadPaints
 date: "2021-01-01"
 thumbnail: ./BadPaintsShield.jpg
-description: Miniature Painting Studio, Wargame Store, and hobby blog.
+description: Miniature Painting Commissions and Hobby Blog.
 ---
 
 ### Commission Painting Services for Warhammer 40k, Age of Sigmar, Kings of War, and many more.

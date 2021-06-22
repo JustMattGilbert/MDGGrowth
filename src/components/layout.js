@@ -45,7 +45,7 @@ const Layout = props => {
           <div className="site-head-right">
             <div className="social-links">
               <a
-                href="https://everyway.io"
+                href="https://themattgilbert.com"
                 title="Blog"
                 target="_blank"
                 rel="noopener noreferrer"
@@ -53,12 +53,12 @@ const Layout = props => {
                 Blog
               </a>
               <a
-                href="https://www.linkedin.com/in/everywaymatt/"
-                title="LinkedIn"
+                href="https://twitter.com/ImMattGilbert"
+                title="Twitter"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                LinkedIn
+                Twitter
               </a>
             </div>
           </div>
